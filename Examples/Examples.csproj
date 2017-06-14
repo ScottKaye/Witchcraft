@@ -44,6 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Demos\AutoClone.cs" />
+    <Compile Include="Demos\GetLocals.cs" />
+    <Compile Include="Demos\GetOffset.cs" />
+    <Compile Include="Demos\Overwrite.cs" />
+    <Compile Include="IDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

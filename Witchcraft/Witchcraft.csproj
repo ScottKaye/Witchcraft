@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutoClone.cs" />
+    <Compile Include="GetLocals.cs" />
     <Compile Include="GetOffset.cs" />
     <Compile Include="MultiReturn.cs" />
     <Compile Include="Overwrite.cs" />
