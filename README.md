@@ -1,6 +1,6 @@
 # Warning!
 
-This code is disgusting.  Hideous.  [Abhorrent.](http://www.thesaurus.com/browse/suicide-inspiring)  Proceed at your own risk!
+This code is disgusting.  Hideous.  Abhorrent.  Proceed at your own risk!
 
 ### [GetLocals](Witchcraft/GetLocals.cs)
 > ★★★★★ ☠️
